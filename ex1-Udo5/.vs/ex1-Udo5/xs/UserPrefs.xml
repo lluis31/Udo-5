@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{9A2DC280-4841-4E1C-AC13-11F0A2D0936E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="13" />
+      <File FileName="EmptyClass.cs" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ex1-Udo5" expanded="True">
+            <Node name="ex1-Udo5" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ex1-Udo5" expanded="True">
+            <Node name="ex1-Udo5" expanded="True">
+              <Node name="ex1_Udo5" expanded="True">
+                <Node name="ex1_Udo5.Circulo" expanded="True" selected="True" />
+                <Node name="ex1_Udo5.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ex1-Udo5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
