@@ -1,0 +1,4 @@
+/Users/lluisplanasmastel/Desktop/Git/Udo-5/ex18-udo5/obj/Debug/netcoreapp3.1/ex18-udo5.csprojAssemblyReference.cache
+/Users/lluisplanasmastel/Desktop/Git/Udo-5/ex18-udo5/obj/Debug/netcoreapp3.1/ex18-udo5.AssemblyInfoInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/Udo-5/ex18-udo5/obj/Debug/netcoreapp3.1/ex18-udo5.AssemblyInfo.cs
+/Users/lluisplanasmastel/Desktop/Git/Udo-5/ex18-udo5/obj/Debug/netcoreapp3.1/ex18-udo5.csproj.CoreCompileInputs.cache
