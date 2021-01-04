@@ -38,6 +38,7 @@ namespace ex20_udo5
             Console.WriteLine("\n Tu array es: [{0}]", string.Join(", ", numeros));
             Console.WriteLine("\n Tu array es: [{0}]", string.Join(", ", numeros2));
             Console.WriteLine("\n Tu array es: [{0}]", string.Join(", ", resultado));
+
         }
     }
 }
